@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "shared-ui": "libs/shared/ui",
     "tavern": "apps/tavern",
     "tavern-e2e": "apps/tavern-e2e"
   }
